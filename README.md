@@ -5,6 +5,7 @@ Here is an implementation of "Binary Trie", "Level Compression Trie", "TreeBitma
 Before using this program, some notes need to be considered for the program to be run properly:
 
 1- Your ip list must to be stored in a text file named IP_LIST.txt
+
 2- Your ip format must be like : octet.octet.octet.octet/[0-32] string
    * octet is a number in range [0-255]
    * each ip must be written in a new line
